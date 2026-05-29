@@ -2,6 +2,12 @@
 
 Este projeto consiste em um **Sensor de Ré/Estacionamento** automotivo desenvolvido utilizando a plataforma Arduino. O sistema mede a distância de objetos em tempo real utilizando um sensor ultrassônico e alerta o motorista visualmente (através de LEDs) e sonoramente (através de um buzzer) conforme a proximidade do obstáculo.
 
+
+![Foto do Circuito](./circuito.jpg)
+
+
+![Foto do Circuito](./circuito2.jpg)
+
 ---
 
 ## 📌 Funcionalidades
