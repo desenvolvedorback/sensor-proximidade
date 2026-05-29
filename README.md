@@ -67,6 +67,9 @@ O comportamento do sistema varia de acordo com a distância detectada pelo senso
 
 ---
 
+link do video: https://drive.google.com/drive/folders/15xnKfl9vn-sw0NfomUYr0w117CpGmH8E?usp=sharing
+link do projeto online: https://www.tinkercad.com/things/1MHWjEwDiCw-sensor-de-presenca?sharecode=tTv2p2sGkmTSN1Bnewto95VcR2DotbZ732AB-WVBAm0
+
 ## 💻 Exemplo de Log no Monitor Serial
 
 Ao abrir o Monitor Serial configurado em **9600 Baud**, você verá o seguinte comportamento:
