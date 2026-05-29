@@ -8,6 +8,10 @@ Este projeto consiste em um **Sensor de Ré/Estacionamento** automotivo desenvol
 
 ![Foto do Circuito](./circuito2.jpg)
 
+![Foto do Circuito](./esquema.pdf)
+
+
+
 ---
 
 ## 📌 Funcionalidades
